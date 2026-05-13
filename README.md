@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vaishuborem" alt="vaishuborem" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development With MERN STACK & GenAI**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 📫 How to reach me **24wh5a6604@bvrithyderabad.edu.in**
 
